@@ -33,7 +33,8 @@ Allocate 1 processor core </br>
 Set the disk size to at least 20 GB</br>
  
 Complete the configuration by clicking Finish to create the virtual machine</br>
- 
+
+<br><br>
 ### Step 5:
  
 Select the created VM, go to Details (or Settings), and navigate to the Network tab.</br>
